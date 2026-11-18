@@ -1,0 +1,12 @@
+opencv-python==4.11.0.86
+mediapipe==0.10.21
+protobuf>=4.25.3,<5
+tensorflow==2.19.0
+scikit-learn
+pandas
+numpy>=1.26.0,<2
+pyttsx3
+kaggle
+anthropic
+matplotlib
+openpyxl

@@ -1,0 +1,28 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+apikey
+
+# datasets and raw / generated data
+ASL_Citizen.zip*
+*.zip
+*.zip.*
+asl_citizen_raw/
+asl_citizen_features/
+wlasl_raw/
+kaggle_raw/
+kaggle_converted/
+holistic_raw/
+holistic_data/
+sequence_data/
+sign_sheet/
+user_data/
+
+# large model and video files
+*.h5
+*.pt
+*.onnx
+*.tflite
+*.mp4
